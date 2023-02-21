@@ -1,0 +1,4 @@
+20230220 17:14:27 INFO  [main] base.BaseTest BaseTest.java52 - Testscript name = LoginTest
+20230220 17:14:29 INFO  [main] testcases.LoginPageTest LoginPageTest.java24 - inside the testcase method
+20230220 17:14:42 INFO  [main] testcases.LoginPageTest LoginPageTest.java35 - Title validatedSalesforce - Essentials Edition
+20230220 17:14:42 INFO  [main] testcases.LoginPageTest LoginPageTest.java38 - logo validatedtrue
